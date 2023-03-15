@@ -1,0 +1,8 @@
+[{"id": 167,"dapartureCity":"VVO","arrivalCity":"TLV","dapartureDate":"17.03.22","dapartureTime":"22:10:00","arrivalDate":"18.03.22","arrivalTime":"17:30:00","price":15780},
+  {"id": 111,"dapartureCity":"VVO","arrivalCity":"TLV","dapartureDate":"10.11.22","dapartureTime":"00:50:00","arrivalDate":"10.11.22","arrivalTime":"20:00:00","price":16400},
+  {"id": 181,"dapartureCity":"VSO","arrivalCity":"TLV","dapartureDate":"10.11.22","dapartureTime":"00:50:00","arrivalDate":"10.11.22","arrivalTime":"19:00:00","price":16400},
+  {"id": 191,"dapartureCity":"VVO","arrivalCity":"TLV","dapartureDate":"15.09.22","dapartureTime":"05:35:00","arrivalDate":"16.09.22","arrivalTime":"00:14:00","price":20470},
+  {"id": 341,"dapartureCity":"VVO","arrivalCity":"TLV","dapartureDate":"17.01.22","dapartureTime":"17:42:00","arrivalDate":"18.01.22","arrivalTime":"03:51:00","price":34700}
+
+]
+
